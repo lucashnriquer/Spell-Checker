@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1567441291 source:c:\users\francisco\documents\c\tabela hash\tabelahash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<locale.h>
+
+1567563236 source:c:\users\lucas\desktop\tabelahash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<locale.h>
+
+1567620231 source:c:\users\francisco\desktop\hashtable spellchecker\tabela hash principal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<locale.h>
+
